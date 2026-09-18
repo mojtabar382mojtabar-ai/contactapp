@@ -38,7 +38,7 @@ android {
     }
 }
 
-kotlin {
+kotlinOptions {
     jvmTarget = "17"
 }
 
